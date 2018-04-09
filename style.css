@@ -1,0 +1,12 @@
+
+
+body{
+    background-color: rgb(167, 74, 74);
+}
+
+.contener{
+    width: 700px;
+    height: 400px;
+    background-color: bisque;
+    margin: 0 auto;
+}
